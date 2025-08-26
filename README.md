@@ -34,7 +34,7 @@ Sou iniciante, mas apaixonada por **motion design, animações e edição de ví
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@pssoawj">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -52,7 +52,7 @@ Sou iniciante, mas apaixonada por **motion design, animações e edição de ví
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/joanapellegrini?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/joanapellegrini?tab=followers">
