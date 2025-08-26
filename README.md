@@ -72,7 +72,7 @@ Sou iniciante, mas apaixonada por **motion design, animações e edição de ví
     align="left" 
     alt="AFTEREFFECTS"
     title="AFTEREFFECTS" 
-    width="30px" 
+    width="10px" 
     style="padding-right: 10px;" 
     src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" 
 />
