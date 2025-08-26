@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E75480&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Joana+Pellegrini+;I+study+graphic+design+and+coding+at+home+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 # 👩‍💻 Joana Pellegrini  
 
 **Designer Gráfica em formação | Motion Design | After Effects**  
@@ -68,38 +72,14 @@ Sou iniciante, mas apaixonada por **motion design, animações e edição de ví
 
 ### 🤖 Edição
 
-<svg viewBox="0 0 128 128">
-<path fill="#1F0740" d="M6.5 6.5h115v115H6.5z"></path><path fill="#D490C5" d="M0 0v128h128V0H0zm121.5 121.5H6.5V6.5h115v115z"></path><path fill="#D490C5" d="M103.5 59.2s-.6-14.6-16.5-14.6c-16 0-17.3 22-17.3 22v4.7S72.5 89.6 86 89.6s14.8-2.6 14.8-2.6v-8.1s-19.3 9.2-21.2-10h24v-9.7zm-9 2.4h-15s0-8.3 7.5-9.2c8.2 0 7.5 9.2 7.5 9.2zM50.5 29.9H38.4v3.8l-16 54.9h9.4l4.4-16.1H53l4.5 16.1h10.3L50.5 29.9zM38.2 63.1l6.4-24.5L51 63.1H38.2z"></path>
-</svg>
-
-<img 
-    align="left" 
-    alt="blender" 
-    title="blender"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
-/>
-
-<br/>
-<br/>
-
 ### 📊 Estatísticas
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joanapellegrini&show_icons=true&count_private=true&hide_border=true&title_color=E75480&icon_color=E75480&text_color=FFFFFF&bg_color=000000" alt="joanapellegrini github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanapellegrini&layout=compact&hide_border=true&title_color=E75480&text_color=FFFFFF&bg_color=000000" />
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joanapellegrini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+[![Joana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joanapellegrini&bg_color=000000&color=E75480&line=FF007F&point=E75480&area=true&hide_border=true)](https://github.com/joanapellegrini/github-readme-activity-graph)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanapellegrini&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007F&height=120&section=footer"/>
